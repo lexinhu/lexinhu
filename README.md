@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
-
 ## Hi there 👋  I'm lexinhu(乐心湖).
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
 ### 👨🏻‍💻 About Me 
 
@@ -12,7 +12,6 @@
 - ✍️ Watching Anime and observe latest design trends as hobbies/side hustles.
 - ☕ I belive, a perfect cup of black tea can be the ultimate solution for any stress. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats">
 
 ### 🛠 Tech Stack
 
@@ -21,3 +20,9 @@
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
 
+<br/>
+
+<a href="https://www.xn2001.com">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lexinhu&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu&theme=buefy&layout=compact" />
+</a>

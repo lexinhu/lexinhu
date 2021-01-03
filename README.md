@@ -1,8 +1,8 @@
 ## Hi there 👋  I'm lexinhu(乐心湖).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
-
 ### 👨🏻‍💻 About Me 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
 - 🔭 I’m currently learning Flutter Application Development
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.

@@ -21,5 +21,7 @@
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
 
+---
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu" alt="lexinhu's Top Langs">
 

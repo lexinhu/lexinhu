@@ -14,16 +14,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats">
 
----
-
 ### 🛠 Tech Stack
 
 - 💻 Java | GO | PHP  
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
-
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu" alt="lexinhu's Top Langs">
 

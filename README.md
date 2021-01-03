@@ -13,7 +13,7 @@
 - ☕ I belive, a perfect cup of black tea can be the ultimate solution for any stress. 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lexinhu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE alt="lexinhu's Github Stats" width="500">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats" width="500">
 
 ### 🛠 Tech Stack
 
@@ -24,4 +24,5 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu&layout=compact&text_color=daf7dc&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu)](https://github.com/anuraghazra/github-readme-stats)
+

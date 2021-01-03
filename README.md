@@ -23,5 +23,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats" width="500">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu" alt="lexinhu's Github Stats" width="500">
 

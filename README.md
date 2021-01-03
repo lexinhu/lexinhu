@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm lexinhu(乐心湖).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
 ### 👨🏻‍💻 About Me 
 
@@ -13,6 +13,8 @@
 - ☕ I belive, a perfect cup of black tea can be the ultimate solution for any stress. 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats">
+
+<br/>
 
 ### 🛠 Tech Stack
 

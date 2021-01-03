@@ -3,10 +3,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-<!--
-**lexinhu/lexinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### 👨🏻‍💻 About Me 
 
 - 🔭 I’m currently learning Flutter Application Development

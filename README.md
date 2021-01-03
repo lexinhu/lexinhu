@@ -12,9 +12,9 @@
 - ✍️ Watching Anime and observe latest design trends as hobbies/side hustles.
 - ☕ I belive, a perfect cup of black tea can be the ultimate solution for any stress. 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats">
-
 <br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats">
 
 ### 🛠 Tech Stack
 

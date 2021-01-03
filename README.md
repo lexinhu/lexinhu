@@ -21,7 +21,7 @@
 
 <br/>
 
-<img style="float: left;"src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats" >
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" alt="lexinhu's Github Stats" >
 
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu" alt="lexinhu's Github Stats" >
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu" alt="lexinhu's Top Langs" >
 

@@ -23,6 +23,6 @@
 <br/>
 
 <a href="https://www.xn2001.com">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu&layout=compact" />
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" />
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu&layout=compact" />
 </a>

@@ -23,8 +23,8 @@
 <br/>
 
 <a href="https://www.xn2001.com">
-    <img height="200em"  style="display: inline-block; float: left;"
+    <img height="200em" align="right" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api?username=lexinhu&show_icons=true" />
-    <img height="200em" style="display: inline-block; float:left;"
+    <img height="200em" align="left" style="display: inline-block; "
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexinhu&layout=compact" />
 </a>
